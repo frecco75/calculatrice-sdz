@@ -8,7 +8,7 @@ Il s'agit d'une application web écrite en Java/J2EE, sans framework et avec les
 
 Dans la partie I du cours correspondant au MOOC de ce projet, le lecteur n'a pas encore vu les notions avancées de présentation comme les taglibs, la JSTL, velocity ou freemarker.
 
-Nous nous limiterons donc dans le cadre de ce projet aux JSP avec scriplets (qui sont à mon sons à bannir de tout projet..).
+Nous nous limiterons donc dans le cadre de ce projet aux JSP avec scriplets (qui sont à mon sens à bannir de tout projet mais ici il s'agit d'un exercice d'apprentissage..).
 
 ### Architecture ###
 
@@ -16,4 +16,4 @@ Cet exemple respecte une architecture monolithique de site grand public avec du 
 
 On aurait très bien pu se limiter à 3 fichiers (servlet, jsp, web.xml). 
 
-Cependant l'approche choisie dans cette implémentation est à privilégier dès lors que l'on souhaite un projet maintenable et partagé avec d'autres collaborateurs. 
+Cependant l'approche choisie dans cette implémentation est à privilégier dès lors que l'on souhaite un projet maintenable et partagé avec d'autres collaborateurs.
