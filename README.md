@@ -12,7 +12,7 @@ Nous nous limiterons donc dans le cadre de ce projet aux JSP avec scriplets (qui
 
 ### Architecture ###
 
-Cet exemple respecte une architecture monolithique de site grand public avec du code réutilisable structuré (inputs, helpers, servlets..) respectant le principe de responsabilité unique, tout ceci dans un but purement but didactique.
+Cet exemple respecte une architecture monolithique de site grand public avec du code réutilisable structuré (inputs, helpers, servlets..) respectant le principe de responsabilité unique, tout ceci dans un but purement didactique.
 
 On aurait très bien pu se limiter à 3 fichiers (servlet, jsp, web.xml). 
 
