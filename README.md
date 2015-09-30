@@ -4,13 +4,13 @@ Il s'agit d'une proposition de correction du **MOOC**#1 sur le Java/J2EE, du sit
 
 Il s'agit d'une application web écrite en Java/J2EE, sans framework et avec les composants basiques offerts par cet éco-système (servlets, jsp).
 
-### Techniquement ###
+## Techniquement ##
 
 Dans la partie I du cours correspondant au MOOC de ce projet, le lecteur n'a pas encore vu les notions avancées de présentation comme les taglibs, la JSTL, velocity ou freemarker.
 
 Nous nous limiterons donc dans le cadre de ce projet aux JSP avec scriplets (qui sont à mon sens à bannir de tout projet mais ici il s'agit d'un exercice d'apprentissage..).
 
-### Architecture ###
+## Architecture ##
 
 Cet exemple respecte une architecture monolithique de site grand public avec du code réutilisable structuré (inputs, helpers, servlets..) respectant le principe de responsabilité unique, tout ceci dans un but purement didactique.
 
