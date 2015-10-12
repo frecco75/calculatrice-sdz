@@ -1,4 +1,5 @@
-[![Licence GPL](http://img.shields.io/badge/license-GPL-yellow.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html)
+[![Licence GPL](http://img.shields.io/badge/license-GPL-yellow.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html) [![Documentation Status](https://readthedocs.org/projects/calculatrice-sdz/badge/?version=latest)](http://calculatrice-sdz.readthedocs.org/en/latest/README?badge=latest)
+
 # Description #
 
 Il s'agit d'une proposition de correction du **MOOC**#1 sur le Java/J2EE, du site [OpenClassrooms.com](http://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee).
