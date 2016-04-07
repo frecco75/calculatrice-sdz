@@ -1,4 +1,4 @@
-[![Licence GPL](http://img.shields.io/badge/license-GPL-yellow.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html) [![Documentation Status](https://readthedocs.org/projects/calculatrice-sdz/badge/?version=latest)](http://calculatrice-sdz.readthedocs.org/en/latest/README?badge=latest)
+[![Licence GPL](http://img.shields.io/badge/license-GPL-yellow.svg)](http://www.gnu.org/licenses/quick-guide-gplv3.fr.html) [![Documentation Status](https://readthedocs.org/projects/calculatrice-sdz/badge/?version=latest)](http://calculatrice-sdz.readthedocs.org/en/latest/README?badge=latest) [![Codacy Badge](https://api.codacy.com/project/badge/grade/baa556a291b640378db74dfa6e17aab6)](https://www.codacy.com/app/fabien-recco/calculatrice-sdz)
 
 # Description #
 
