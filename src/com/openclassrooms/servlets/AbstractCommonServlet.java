@@ -20,7 +20,7 @@ public abstract class AbstractCommonServlet extends HttpServlet {
     // Constants
     //--------------------------------------------------
     
-    private final static String folder = "pages";
+    private final static String FOLDER = "pages";
 
     
     // Actions
@@ -50,7 +50,7 @@ public abstract class AbstractCommonServlet extends HttpServlet {
      */
     protected void renderView(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String viewName = computeViewName();
-        getServletContext().getRequestDispatcher("/WEB-INF/" + folder + "/" + viewName + ".jsp").forward(request, response);
+        getServletContext().getRequestDispatcher("/WEB-INF/" + FOLDER + "/" + viewName + ".jsp").forward(request, response);
     }
     
     /**
